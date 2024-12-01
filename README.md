@@ -65,4 +65,19 @@ The **Bus Safety Automation Project** integrates computer vision, IoT, and a use
    ```bash
    git clone https://github.com/your-repo/bus-safety-automation.git
    cd bus-safety-automation
+2. Install the required dependencies:
+   ```bash
+   pip install opencv-python face-recognition firebase-admin cvzone numpy pyserial
+3. Configure Firebase:
+
+   - Place `serviceAccountKey.json` in the root directory.
+   - Update Firebase Database URL and Storage Bucket in the script.
+4. Connect Arduino:
+
+   - Upload the Arduino sketch to the board.
+   - Update the COM port in the script to match your Arduino's port.
+5. Prepare Haar Cascades:
+
+   - Download `face.xml` and `hand.xml`.
+   - Place them in the project directory.
 
