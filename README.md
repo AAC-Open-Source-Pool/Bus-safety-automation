@@ -60,7 +60,7 @@ The **Bus Safety Automation Project** integrates computer vision, IoT, and a use
 
 ---
 
-## How to use
+## Installation and usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/bus-safety-automation.git
