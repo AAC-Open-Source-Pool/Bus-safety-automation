@@ -103,6 +103,8 @@ Screenshots of the project
 ![WhatsApp Image 2024-11-17 at 15 11 57_556bc8df](https://github.com/user-attachments/assets/d3f8c545-aeeb-40d6-8d6e-08b3e2e25314)
 ![Screenshot (545)](https://github.com/user-attachments/assets/e529cd69-adf8-4652-8bbe-232d65b274df)
 
+---
+
 <h2>Contribution</h2>
 <p>We welcome contributions to improve the Project <br>
 To contribute, follow these steps:
