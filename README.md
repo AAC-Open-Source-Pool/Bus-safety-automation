@@ -16,6 +16,7 @@
 - [Preview](#previews)
 - [Contribution](#contribution)
 
+---
 
 ## Introduction
 The **Bus Safety Automation Project** integrates computer vision, IoT, and a user-friendly interface to ensure the safety of children traveling by bus. This project includes two core functionalities:
@@ -23,7 +24,6 @@ The **Bus Safety Automation Project** integrates computer vision, IoT, and a use
 1. **Attendance System**: Utilizes facial recognition for attendance and sends notifications to parents.
 2. **Hand Detection System**: Monitors for hands outside the bus window and triggers a buzzer using Arduino.
 
----
 
 ### Features
 #### Attendance System
@@ -80,4 +80,8 @@ The **Bus Safety Automation Project** integrates computer vision, IoT, and a use
 
    - Download `face.xml` and `hand.xml`.
    - Place them in the project directory.
+---
+## Preview
+Screenshots of the project
 
+![WhatsApp Image 2024-11-17 at 15 11 57_556bc8df](https://github.com/user-attachments/assets/d3f8c545-aeeb-40d6-8d6e-08b3e2e25314)
