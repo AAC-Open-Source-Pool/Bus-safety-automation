@@ -42,21 +42,37 @@ The **Bus Safety Automation Project** integrates computer vision, IoT, and a use
 ---
 
 ## Requirements
-- Python 3.7.x 
-- Required libraries:
-  - OpenCV
-  - Face Recognition
-  - Firebase Admin SDK
-  - CVZone
-  - NumPy
-  - PySerial
-- Haar Cascade XML files for detection:
-  - `face.xml` for facial detection.
-  - `hand.xml` for palm detection.
-- Firebase setup:
-  - `serviceAccountKey.json` for Firebase configuration.
-  - Firebase Database URL and Storage Bucket.
-- Arduino board connected to a buzzer.
+
+<pre>
+Package                Version
+--------------------- -----------
+Python                3.7.x
+OpenCV                4.8.0
+Face Recognition      1.3.0
+Firebase Admin SDK    6.0.1
+CVZone                1.5.6
+NumPy                 1.24.3
+PySerial              3.5
+</pre>
+
+<h3>Additional Resources</h3>
+<pre>
+Resource               Details
+--------------------- -----------
+Haar Cascade XML       face.xml (for facial detection)
+                       hand.xml (for palm detection)
+
+Firebase Configuration:
+serviceAccountKey.json Firebase service account configuration file
+Database URL           Your Firebase Database URL
+Storage Bucket         Your Firebase Storage Bucket
+
+Hardware Requirements:
+Arduino                Arduino board (tested with Uno)
+Buzzer                 Connected to Arduino for hand detection alerts
+</pre>
+
+
 
 ---
 
